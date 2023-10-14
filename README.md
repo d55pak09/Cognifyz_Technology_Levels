@@ -20,4 +20,3 @@ Analyze the distribution of aggregate ratings and determine the most common rati
 Calculate the average number of votes received by restaurants.
 Identify the most common combinations of cuisines in the dataset.
 Determine if certain cuisine combinations tend to have higher ratings.
-and many more...
